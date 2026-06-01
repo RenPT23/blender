@@ -13,7 +13,7 @@ Legacy AMD
 
 ![Legacy AMD](https://blender.community/c/rightclickselect/Kzml/) is a idea proposed in the Right-Click Select community to add support to GCN 3/4/5/5.1 AMD GPUs to Cycles rendering
 
-![Legacy AMD UI idea](https://d3a2gvihmbqfjo.cloudfront.net/1f/1fff529f5807199e89db19ff61ae6bfc/1fff529f5807199e89db19ff61ae6bfc.png "Legacy AMD UI Idea")
+![Legacy AMD UI idea](https://d3a2gvihmbqfjo.cloudfront.net/1f/1fff529f5807199e89db19ff61ae6bfc/1fff529f5807199e89db19ff61ae6bfc.png)
 
 Blender
 =======
