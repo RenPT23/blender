@@ -1,8 +1,6 @@
 /* SPDX-FileCopyrightText: 2011-2022 Blender Foundation
  *
- * SPDX-License-Identifier: Apache-2.0 
- * Modified by RenPT/RenPT23/RenPT23R 
- * Added LegacyAMD */
+ * SPDX-License-Identifier: Apache-2.0 */
 
 #pragma once
 
@@ -15,7 +13,6 @@ class DeviceInfo;
 class Profiler;
 class Stats;
 
-// More Legacy AMD required
 unique_ptr<Device> device_dummy_create(const DeviceInfo &info,
                                        Stats &stats,
                                        Profiler &profiler,
