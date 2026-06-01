@@ -8,6 +8,13 @@ See 'release/text/readme.html' for the end user read-me.
 > Cloning from this [GitHub mirror](https://github.com/blender/blender) may cause Git LFS errors. To avoid this, use `GIT_LFS_SKIP_SMUDGE=1` when doing your initial clone.  
 > See [the documentation](https://developer.blender.org/docs/handbook/contributing/using_git/#github-mirror) for full instructions.
 
+Legacy AMD
+=======
+
+![Legacy AMD](https://blender.community/c/rightclickselect/Kzml/) is a idea proposed in the Right-Click Select community to add support to GCN 3/4/5/5.1 AMD GPUs to Cycles rendering
+
+![Legacy AMD UI idea](https://d3a2gvihmbqfjo.cloudfront.net/1f/1fff529f5807199e89db19ff61ae6bfc/1fff529f5807199e89db19ff61ae6bfc.png)
+
 Blender
 =======
 
